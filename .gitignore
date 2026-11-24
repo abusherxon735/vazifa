@@ -1,0 +1,7 @@
+# Vaqtinchalik fayllar
+*.tmp
+temp/
+
+# Shaxsiy va tizim fayllari
+private-notes.txt
+.DS_Store
